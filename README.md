@@ -11,3 +11,12 @@ fontes
 2 https://www.youtube.com/shorts/zmoJ-PNmR0Y
 3 https://clickpetroleoegas.com.br/campos-maduros-ganham-protagonismo-e-devem-gerar-novas-oportunidades-no-setor-de-petroleo-e-gas-phsn84/
 4 https://cneg.org/anais/download.php?acao=anais&evento=CNEG2010&codigo=T10_0233_1313.pdf
+5 https://repositorio.ufrn.br/server/api/core/bitstreams/cd9ce431-bf18-45b3-96c0-90b5e95adaa0/content
+
+Teste de prompts
+1 o que define o campo maduro de pretroleo
+2 cite campos maduros de petroleo no Brasil
+3 o campo XX é economicamente viavel
+
+Miniguia
+1 
