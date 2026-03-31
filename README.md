@@ -7,9 +7,9 @@ Objetivos
 3 testar o notebooklm sobre o tema campos maduros
 
 fontes
-1 https://g1.globo.com/rj/intertvrj/rj2/video/petroleo-riqueza-explorada-confira-os-campos-de-petroleo-maduros-da-bacia-6190614.ghtml
+1 https://www.youtube.com/watch?v=IaBU70VgmRs
 2 https://www.youtube.com/shorts/zmoJ-PNmR0Y
-3 https://clickpetroleoegas.com.br/campos-maduros-ganham-protagonismo-e-devem-gerar-novas-oportunidades-no-setor-de-petroleo-e-gas-phsn84/
+3 https://www.youtube.com/watch?v=5rjTPA04AcY
 4 https://cneg.org/anais/download.php?acao=anais&evento=CNEG2010&codigo=T10_0233_1313.pdf
 5 https://repositorio.ufrn.br/server/api/core/bitstreams/cd9ce431-bf18-45b3-96c0-90b5e95adaa0/content
 
