@@ -19,4 +19,6 @@ Teste de prompts
 3 o campo XX é economicamente viavel
 
 Miniguia
-1 
+1 crie um notebooklm que tenha informações sobre campos maduros de petroleo
+2 inclua as fontes escolhidas nos respectivos formatos
+3 faça perguntas sobre campos maduros
