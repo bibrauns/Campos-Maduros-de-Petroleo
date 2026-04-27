@@ -16,9 +16,9 @@ fontes
 Teste de prompts
 1 o que define o campo maduro de pretroleo
 2 cite campos maduros de petroleo no Brasil
-3 o campo XX é economicamente viavel
+3 o campos é economicamente viavel?
 
 Miniguia
 1 crie um notebooklm que tenha informações sobre campos maduros de petroleo
 2 inclua as fontes escolhidas nos respectivos formatos
-3 faça perguntas sobre campos maduros
+3 campos maduros de petroleo e diferença entre um campo novo - pressao do campo determina a diferenca - viabilidade economica para empresas de menor porte em expplorar campo maduros
